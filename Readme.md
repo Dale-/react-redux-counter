@@ -3,10 +3,10 @@
 ## 启动项目 ##
 
 ```javaScript
-  npm install 							// 安装相关依赖
-  npm start									// 启动项目
-```
 
+  npm install             // 安装相关依赖
+  npm start               // 启动项目
+```
 
 ## 目录结构 ##
 

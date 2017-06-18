@@ -5,7 +5,7 @@
  */
 
 export default {
-	'demo/': {
+	'counter/': {
 		get: {
 			counterData: 200
 		},

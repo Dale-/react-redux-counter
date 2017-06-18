@@ -35,6 +35,9 @@ export default class CounterContainer extends Component {
 			counter
 		} = this.props;
 
-		return <CounterComponent {...counter} onClick={::this.increaseNumber} />;
+		return (<div>
+			<CounterComponent {...counter} />
+			<button onClick={::this.increaseNumber}>Add</button>
+		</div>);
 	}
 }

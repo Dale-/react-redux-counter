@@ -1,6 +1,6 @@
 # React Redux Counter
 
-## 如何启动 ##
+## 如何启动
 
 ```javaScript
 
@@ -8,7 +8,7 @@
   npm start               // 启动项目
 ```
 
-## 目录结构 ##
+## 目录结构
 
 ```javaScript
 src

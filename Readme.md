@@ -1,6 +1,6 @@
 # React Redux Counter
 
-## 启动项目 ##
+## 如何启动 ##
 
 ```javaScript
 
